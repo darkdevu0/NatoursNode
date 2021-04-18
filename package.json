@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "starter",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkdevu0/NatoursNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkdevu0/NatoursNode/issues"
+  },
+  "homepage": "https://github.com/darkdevu0/NatoursNode#readme",
+  "description": ""
+}
